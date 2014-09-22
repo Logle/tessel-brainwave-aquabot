@@ -1,0 +1,23 @@
+{
+  "name": "tessel-brainwave-aquabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aquabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justingreenberg/tessel-brainwave-aquabot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justingreenberg/tessel-brainwave-aquabot/issues"
+  },
+  "homepage": "https://github.com/justingreenberg/tessel-brainwave-aquabot",
+  "devDependencies": {
+    "accel-mma84": "^0.2.3",
+    "ambient-attx4": "^0.2.2"
+  }
+}
